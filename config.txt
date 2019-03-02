@@ -1,6 +1,6 @@
 owner=543363632159784961
-prefix=C
-game=Cplay
+prefix=O
+game=Oplay
 stayinchannel=true
 songinstatus=false
 token=NTUxMTAwNjAwMjY4MzU3NjMy.D1sI6Q.ie1GCYqtmu2Et_JO6NEj9HqD8RY
